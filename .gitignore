@@ -5,7 +5,7 @@
 !*.ipynb
 !*.bz2
 !*.js
-!*.css
+!*.csv
 !test_lab_1.txt
 # Keep .gitignore itself tracked
 !.gitignore
