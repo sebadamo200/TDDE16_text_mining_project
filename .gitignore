@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow only .ipynb and .bz2 files
+!*.ipynb
+!*.bz2
+!*.js
+!*.css
+!test_lab_1.txt
+# Keep .gitignore itself tracked
+!.gitignore
