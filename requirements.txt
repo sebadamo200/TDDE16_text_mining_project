@@ -1,0 +1,16 @@
+pandas
+numpy
+spacy
+tqdm
+scikit-learn
+seaborn
+matplotlib
+wordcloud
+textblob
+vaderSentiment
+pprint
+transformers
+scipy
+datasets
+evaluate
+torch

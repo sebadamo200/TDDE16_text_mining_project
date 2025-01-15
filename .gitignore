@@ -6,6 +6,8 @@
 !*.bz2
 !*.js
 !*.csv
+!*.md
+!requirements.txt
 !test_lab_1.txt
 # Keep .gitignore itself tracked
 !.gitignore
